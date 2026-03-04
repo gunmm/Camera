@@ -15,11 +15,15 @@
 					<string>Default Configuration</string>
 					<key>UISceneDelegateClassName</key>
 					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
-					<key>UISceneStoryboardFile</key>
-					<string>Main</string>
 				</dict>
 			</array>
 		</dict>
 	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>We need access to the camera to shoot the moon and stars.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>We need photo library access to save your stunning photos.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need photo library access to save your stunning photos.</string>
 </dict>
 </plist>
